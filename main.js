@@ -53,6 +53,5 @@ Webcam.attach('#camera');
          if(previsao1 == "Legal"){
             document.getElementById("updateEmoji").innerHTML = "&#128077;";
          }
-         }
      }
    }
